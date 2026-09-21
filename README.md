@@ -14,7 +14,7 @@
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<username>.github.io/](https://<username>.github.io/)
+Visit my personal website: [https://matthewjhang901030.github.io/](https://matthewjhang901030.github.io/)
 
 ## File & Folder Organization
 - `assignments/`: Contains weekly assignments and source code.
